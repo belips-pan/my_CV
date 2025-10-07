@@ -8,9 +8,9 @@ title: Home
 {{ site.description }}
 
 ## Navigation
-- [About](/about/)
-- [Education](/pages/education/)
-- [Experience](/pages/experience/)
-- [Skills](/pages/skills/)
-- [Certifications](/pages/certifications/)
-- [Languages](/pages/languages/)
+- [About](./about/)
+- [Education](./pages/education/)
+- [Experience](./pages/experience/)
+- [Skills](./pages/skills/)
+- [Certifications](./pages/certifications/)
+- [Languages](./pages/languages/)
