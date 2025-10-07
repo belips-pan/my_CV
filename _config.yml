@@ -1,0 +1,26 @@
+title: Panagiotis Beligiannis
+logo: assets/images/profile.jpg
+description: >
+  IT professional with hands-on experience in software development, web development, 
+  cloud technologies, and data security. Proficient in designing secure applications, 
+  network security, and full-stack development.
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-minimal
+
+# About
+email: belips@gmx.com
+phone: +306940539838
+website: https://github.com/PanagiotisBeligiannis
+linkedin: panagiotis-beligiannis-7973b033b
+github: PanagiotisBeligiannis
+
+# Education
+education:
+  - degree: MSc in Mobile and Pervasive Computing Systems
+    year: 2024 - Present
+    institution: Hellenic Open University, Patras, Greece
+  - degree: BSc in Computer Science
+    year: 2015 - 2024
+    institution: Hellenic Open University, Patras, Greece
+    grade: 68/100
