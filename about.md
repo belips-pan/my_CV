@@ -7,7 +7,7 @@ permalink: /about/
 # Contact Information
 
 **Location:** Thessaloniki, Greece  
-**Email:** belips@gmx.com  
+**Email:** pbelig@yahoo.com  
 **Phone:** +306940539838  
 **LinkedIn:** [linkedin.com/in/panagiotis-beligiannis-7973b033b/](https://linkedin.com/in/panagiotis-beligiannis-7973b033b/)  
 **GitHub:** [https://github.com/PanagiotisBeligiannis](https://github.com/PanagiotisBeligiannis)  
